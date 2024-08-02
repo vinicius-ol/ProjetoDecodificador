@@ -32,3 +32,5 @@
     :warning:  Projeto feito inicialmente para web, por enquanto ainda não possui responsividade correta para telas menores.  :warning:
 </h4>
 
+:love_letter: <h6> Nota Pessoal: O projeto foi muito divertido de ser feito, tive um pouco de dificuldade na parte do javascript e em usar algumas propriedades do css no começo, mas usei bastante a internet e IAs para tentar sanar minhas dúvidas, este foi meu primeiro site feito sozinho do zero e fiquei feliz com o resultado, apesar de simples, ele funciona bem e pude não só praticar como entender conceitos e aplicações na prática, agradeço a oportunidade e aguardo por mais, um abraço para quem leu até aqui:hearts:</h6>:love_letter:
+
