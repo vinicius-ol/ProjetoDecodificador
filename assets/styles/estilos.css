@@ -1,0 +1,187 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ga+Maamli&family=Shadows+Into+Light&family=Yuji+Hentaigana+Akebono&display=swap');
+
+:root{
+    --corprincipal: #EEEEEE;
+    --corsecundaria: #C73659;
+    --corterciaria: #A91D3A;
+    --destaque: #151515;
+
+}
+
+
+* {
+
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+    background-color: var(--corprincipal);
+
+}
+
+.capacete{
+    height: 80px;
+}
+
+.topo-pagina {
+    background-color: var(--corsecundaria);
+    font-family: "Yuji Hentaigana Akebono", cursive;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    padding: 3%;
+    justify-content: center;
+   
+}
+
+.topo-pagina a{
+    text-decoration: none;
+    color: var(--corprincipal);
+}
+
+.principal{
+    padding: 5%;   
+}
+
+.input-output {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20% 5%;
+
+}
+
+#input-texto{
+    width: 345px;
+    height: 330px;
+    font-size: 20px;
+    color: var(--destaque);
+    background: transparent;
+    box-shadow: none;
+    border: none;
+    outline: 0;
+    padding: 10px;
+
+}
+
+#input-texto::placeholder {
+    color: var(--corterciaria)
+}
+
+.input{
+    color: var(--corterciaria);
+}
+
+.output{
+    display: flex;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 12px;
+    flex-direction: column;
+    border: 3px solid var(--corsecundaria);
+    border-radius: 14px;
+    width: 350px;
+    height: 400px;
+    background: var(--corsecundaria);
+    color: var(--corprincipal);
+    box-shadow: 0 0 10px #15151591;
+    align-items: center;
+
+}
+
+.output img {
+    max-width: 220px;
+}
+
+.botoes {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.botao {
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+    background: transparent;
+    width: 180px;
+    text-align: center;
+    border-radius: 16px;
+    font-size: 24px;
+    padding: 21.5px 0;
+    text-decoration: none;
+    color: var(--corterciaria);
+    cursor: pointer;
+    border: solid 1px var(--corsecundaria);
+
+}
+
+.botao:hover{
+    color: var(--destaque);
+    background: #e2e2e2;
+    border: solid 1px var(--destaque);
+}
+
+.parte-baixa {
+    display: flex;
+    align-items: center;
+    background: var(--corsecundaria);
+    padding: 2%;
+    flex-direction: column;
+    justify-content: center;
+    color: var(--destaque);
+}
+
+.clicaveis {
+    display: flex;
+    flex-direction: row;
+}
+
+.clicaveis-footer{
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: var(--destaque);
+
+}
+
+.clicaveis-footer:hover {
+    color: var(--corprincipal);
+}
+
+.parte-baixa img{
+    width: 45px;
+    height: 45px;
+}
+
+h4{
+    font-family: "Yuji Hentaigana Akebono", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: var(--corprincipal);
+}
+
+/*estilização da parte de javascript*/
+
+.texto-resultado {
+    cursor: pointer;
+    color: var(--corprincipal);
+}
+
+.lembrete {
+    color: var(--destaque)
+    
+}
+
+
+
+
+
