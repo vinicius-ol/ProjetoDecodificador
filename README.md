@@ -1,5 +1,5 @@
 <div align="center">
-<img src= "./assets/capacete.png">
+<img src= "./assets/capacete.png" alt="capacete de samurai">
 </div>
 
 <h1 align="center"> Projeto decodificador - Oracle ONE </h1>
@@ -7,14 +7,19 @@
 <h2 align="center">Olá, este é um decodificador/codificador de texto simples, baseado em substituição de palavras por outros valores.</h2>
 
 <p>1 - Insira o texto que quer codificar ou decodificar.</p>
-![image](https://github.com/user-attachments/assets/8cb1ed81-1855-4dd5-96c3-7e485a563b20)
+
+<img src= "./assets/digitar" alt="espaço para digitar texto">
+<img src= "./assets/digitar2" alt="texto depois de digitado">
 
 <p>2 - Clique no botão relacionado ao que deseja fazer.</p>
-![image](https://github.com/user-attachments/assets/51905e0f-3b2e-4172-9020-35dd98795a88)
+
+<img src= "./assets/botoesimagem" alt="botões">
+
 
 <p>3 - O programa retornará o resultado e você pode copiá-lo clicando no texto, caso queira. :)</p>
-![image](https://github.com/user-attachments/assets/1d6d7c0d-417a-4f43-9169-f6db4ca27c03)
-![image](https://github.com/user-attachments/assets/7869ffe0-1466-4fc4-a9bd-6e1f9fe9bca7)
+
+<img src= "./assets/tela1" alt="imagem da tela antes do resultado">
+<img src= "./assets/tela2" alt="imagem da tela após resultado">
 
 
 # :hammer: Funcionalidades do projeto
