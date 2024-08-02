@@ -8,18 +8,18 @@
 
 <p>1 - Insira o texto que quer codificar ou decodificar.</p>
 
-<img src= "./assets/digitar" alt="espaço para digitar texto">
-<img src= "./assets/digitar2" alt="texto depois de digitado">
+<img src= "./assets/digitar.png" alt="espaço para digitar texto">
+<img src= "./assets/digitar2.png" alt="texto depois de digitado">
 
 <p>2 - Clique no botão relacionado ao que deseja fazer.</p>
 
-<img src= "./assets/botoesimagem" alt="botões">
+<img src= "./assets/botoesimagem.png" alt="botões">
 
 
 <p>3 - O programa retornará o resultado e você pode copiá-lo clicando no texto, caso queira. :)</p>
 
-<img src= "./assets/tela1" alt="imagem da tela antes do resultado">
-<img src= "./assets/tela2" alt="imagem da tela após resultado">
+<img src= "./assets/tela1.png" alt="imagem da tela antes do resultado">
+<img src= "./assets/tela2.png" alt="imagem da tela após resultado">
 
 
 # :hammer: Funcionalidades do projeto
