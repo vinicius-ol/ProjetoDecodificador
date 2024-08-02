@@ -1,5 +1,5 @@
 <div align="center">
-![capacetecopia](https://github.com/user-attachments/assets/b09a7e41-31ef-4ed4-8147-43537a636329)
+<img src= "./assets/capacete.png">
 </div>
 
 <h1 align="center"> Projeto decodificador - Oracle ONE </h1>
